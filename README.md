@@ -1,5 +1,7 @@
 # CIS 5570: Final Project Code
 
+The Kaggle dataset we used for this project is located [here](https://www.kaggle.com/c/nfl-big-data-bowl-2021).
+
 The **final_project_script.py** file in the **File Preprocessing Script** folder was used to take the data within the **Input Files** subfolder, and convert it into the data within the **Output Files** subfolder.
 
 The files within **File Preprocessing Script/Output Files** subfolder were used as the input files to the **final_project_pyspark.py** file, which in turn generated the **output.csv** file using PySpark.
