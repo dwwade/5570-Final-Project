@@ -1,4 +1,4 @@
-# CIS 5570 Final Project Code
+# CIS 5570: Final Project Code
 
 The **final_project_script.py** file in the **File Preprocessing Script** folder was used to take the data within the **Input Files** subfolder, and convert it into the data within the **Output Files** subfolder.
 
